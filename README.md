@@ -1,1 +1,1 @@
-# Deizzem_Seplos_Bms_modbus_rtu_nodemcu_32s_V1.0.0.1
+# Deizzem Seplos Bms
